@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.exe
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.deps.json
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.runtimeconfig.json
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.dll
+C:\Users\HP\source\repos\otobus_sofor\bin\Debug\netcoreapp3.1\otobus_sofor.pdb
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.Form1.resources
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.AssemblyInfo.cs
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.dll
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.pdb
+C:\Users\HP\source\repos\otobus_sofor\obj\Debug\netcoreapp3.1\otobus_sofor.genruntimeconfig.cache
